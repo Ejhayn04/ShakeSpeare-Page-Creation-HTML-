@@ -1,7 +1,7 @@
-<h1>Kathleen-F-and-Linda-F-Page-Creation</h1>
+<h1>Simple ShakeSpeare Page Creation (HTML) </h1>
 
 <h2>Description</h2>
-Project consists of a simple HTML page creation describing Kathleen F and Linda F. 
+Project consists of a simple HTML page creation describing ShakeSpeare and also coding for the backgroud color
 <br />
 
 
